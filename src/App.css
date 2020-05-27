@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    background-image: url('https://www.psychology.org.nz/application/files/1915/7195/4590/Home_banner.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 1500px;
+}
+
+.App h1{
+    background-color: #d1f6f6;
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+}
