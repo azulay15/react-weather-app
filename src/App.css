@@ -9,7 +9,10 @@
 .App h1{
     background-color: #d1f6f6;
     border: 1px solid black;
+    border-radius: 10px;
     width: 700px;
     margin: auto;
     text-align: center;
+    opacity: 80%;
+    text-shadow: 2px 1px rgb(77, 125, 228);
 }
